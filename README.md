@@ -1,2 +1,2 @@
 # Issues and recommendations.
-Place your issues and recommendations about work of Fake.rest here
+Place here your issues and recommendations about the work of [Fake.rest](https://fake.rest)
